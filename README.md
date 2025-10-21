@@ -1,4 +1,4 @@
-# 🎯 QR Code Generator
+# 🎯 QR Code Generator copy by Fj2teamn team J2TEAM
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Tạo QR code cho nhiều mục đích khác nhau:
 
 ### 🌐 Sử dụng trực tiếp
 
-**Live Demo:** [https://j2teamnnl.github.io/qr-code-generator](https://j2teamnnl.github.io/qr-code-generator)
+**Live Demo:** [https://datdevl.github.io/crQR)
 
 ---
 
@@ -141,8 +141,7 @@ qr-code-generator/
 
 ```bash
 # Clone repository
-git clone https://github.com/j2teamnnl/qr-code-generator.git
-cd qr-code-generator
+git clone https://github.com/crQR.git
 
 # Install dependencies
 npm install
@@ -198,6 +197,6 @@ Dự án này được phân phối dưới **MIT License** - xem file [LICENSE]
 
 **⭐ Nếu thấy hữu ích, hãy star repo này! ⭐**
 
-Vibe code with ❤️ by [J2TeamNNL](https://github.com/j2teamnnl)
+Vibe code with ❤️
 
 </div>
